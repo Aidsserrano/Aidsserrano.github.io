@@ -66,18 +66,25 @@ nav ul li a:hover { color: var(--primary-color); }
 
 /* Hero Section */
 .hero {
-    padding: 180px 0 100px;
+    padding: 100px 0 100px;
     text-align: center;
 }
 
 .profile-pic {
-    width: 160px;
-    height: 160px;
+    width: 240px; 
+    height: 240px;
     border-radius: 50%;
     object-fit: cover;
     border: 4px solid var(--primary-color);
-    margin-bottom: 1.5rem;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    margin-bottom: 2rem;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.6); /* Slightly deeper shadow for the larger size */
+    transition: var(--transition);
+}
+
+
+.profile-pic:hover {
+    transform: scale(1.05);
+    border-color: #818cf8; /* A slightly lighter shade on hover */
 }
 
 .hero h2 {
