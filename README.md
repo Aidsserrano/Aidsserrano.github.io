@@ -21,10 +21,5 @@ Welcome! This repository hosts my personal portfolio website, where I showcase m
 * `style.css` - Custom design and layout.
 * `assets/` - Images, icons, and project thumbnails.
 
-## 📬 Get In Touch
-* **LinkedIn:** [Aidan Zabdiel Serrano](https://linkedin.com/in/aidan-serrano)
-* **Email:** [Your Email Here]
-* **GitHub:** [AidsSerrano](https://github.com/Aidsserrano)
-
 ---
 *Built by Aidan Serrano | 2026*
